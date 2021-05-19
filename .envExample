@@ -1,0 +1,2 @@
+PORT = PORT
+mongo_url= your mongo atlas url without ""
